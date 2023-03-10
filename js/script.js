@@ -1,0 +1,1 @@
+document.querySelector('.contacts-btn').addEventListener('click',function() {console.log('hello')})
